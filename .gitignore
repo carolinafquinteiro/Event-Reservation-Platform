@@ -1,0 +1,10 @@
+ajuda.c
+cache_drafts/user.h
+cache_drafts/event.h
+cache_drafts/server_lista_clientes.c
+.vscode/c_cpp_properties.json
+*.o
+user
+ES
+*.txt
+udp_server_carolina.c
